@@ -1,5 +1,3 @@
-Here's a README-style format based on the contents of your mini project report on a "Quiz System Using Computer Vision":
-
 ---
 
 # Quiz System Using Computer Vision
@@ -33,17 +31,17 @@ This project aims to develop an interactive quiz system that uses computer visio
 ## Installation & Setup
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/your-repo/quiz-system-computer-vision.git
+   git clone https://github.com/Darshan98Solanki/Quiz-System-OpenCV.git
    ```
 2. **Install Dependencies**:
    Install the necessary libraries using:
    ```bash
-   pip install -r requirements.txt
+   pip install (all required libraries)
    ```
 3. **Run the Application**:
    Start the quiz system by running the following command:
    ```bash
-   python app.py
+   python quiz_system.py
    ```
 
 ## How it Works
@@ -53,7 +51,30 @@ This project aims to develop an interactive quiz system that uses computer visio
 4. **Result Compilation**: After the quiz is completed, the system calculates the score and stores the result in the database.
 
 ## Results
-The system achieved a hand detection accuracy of approximately 74-76%, making it effective for basic hand gestures in a controlled environment.
+The system achieved a hand detection accuracy of approximately 74-76%, making it effective for basic hand gestures in a controlled environment. 
+<br/>
+<br/>
+![image](https://github.com/user-attachments/assets/c0ae47a7-5e5f-4d11-beaa-8a842ad7b6bf)
+<p>
+    <em>[ Start Screen ]</em>
+</p>
+<br/>
+<br/>
+
+![image](https://github.com/user-attachments/assets/fcd2825d-b648-4e35-b3fe-b7cc306ca5d2)
+<p>
+    <em>[ Selecting Answer ]</em>
+</p>
+<br/>
+<br/>
+
+![image](https://github.com/user-attachments/assets/8f11bf76-40da-4b50-abef-6eab2a582d71)
+<p>
+    <em>[ Final Result Screen ]</em>
+</p>
+
+
+
 
 ## Future Scope
 - **Advanced Facial Recognition**: Personalize quizzes based on the user's previous performance.
