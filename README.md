@@ -92,5 +92,3 @@ This project demonstrates how computer vision can be integrated into traditional
 - [OpenCV Documentation](https://opencv.org/about/)
   
 ---
-
-You can modify the links and placeholders as needed. Let me know if you'd like further customization!
